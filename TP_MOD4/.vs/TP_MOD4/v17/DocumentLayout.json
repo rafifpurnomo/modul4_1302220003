@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{6A1AFD80-922A-4F88-A796-171C3FF95433}|TP_MOD4\\TP_MOD4.csproj|solutionrelative:tp_mod4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A1AFD80-922A-4F88-A796-171C3FF95433}|TP_MOD4\\TP_MOD4.csproj|c:\\users\\muhammad rafif a.p\\onedrive - telkom university\\kuyliah\\semester 4\\praktikum konstruksi pl\\tpmodul4_1302220003\\tp_mod4\\tp_mod4\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1AFD80-922A-4F88-A796-171C3FF95433}|TP_MOD4\\TP_MOD4.csproj|solutionrelative:tp_mod4\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A1AFD80-922A-4F88-A796-171C3FF95433}|TP_MOD4\\TP_MOD4.csproj|c:\\users\\muhammad rafif a.p\\onedrive - telkom university\\kuyliah\\semester 4\\praktikum konstruksi pl\\tpmodul4_1302220003\\tp_mod4\\tp_mod4\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1AFD80-922A-4F88-A796-171C3FF95433}|TP_MOD4\\TP_MOD4.csproj|solutionrelative:tp_mod4\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\tpmodul4_1302220003\\TP_MOD4\\TP_MOD4\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "TP_MOD4\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\tpmodul4_1302220003\\TP_MOD4\\TP_MOD4\\DoorMachine.cs",
+              "RelativeToolTip": "TP_MOD4\\DoorMachine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:22:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\tpmodul4_1302220003\\TP_MOD4\\TP_MOD4\\KodePos.cs",
               "RelativeDocumentMoniker": "TP_MOD4\\KodePos.cs",
               "ToolTip": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\tpmodul4_1302220003\\TP_MOD4\\TP_MOD4\\KodePos.cs",
               "RelativeToolTip": "TP_MOD4\\KodePos.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAowAoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T15:54:31.686Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "TP_MOD4\\Program.cs",
               "ToolTip": "C:\\Users\\Muhammad Rafif A.P\\OneDrive - Telkom University\\KUYLIAH\\SEMESTER 4\\Praktikum Konstruksi PL\\tpmodul4_1302220003\\TP_MOD4\\TP_MOD4\\Program.cs",
               "RelativeToolTip": "TP_MOD4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T15:43:23.077Z",
               "EditorCaption": ""

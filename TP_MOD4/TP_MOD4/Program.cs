@@ -7,11 +7,20 @@ internal class Program
         // MEMANGGIL DATA DARI CLASS KODEPOS
         KodePos DataKodePos= new KodePos();
 
-        String kodePostWates = DataKodePos.GetKodePos("Wates");
-        String kodePostCijaura = DataKodePos.GetKodePos("Cijaura");
-        String kodePostMargasari = DataKodePos.GetKodePos("Margasari");
-        Console.WriteLine("ini kode post Wates: " + kodePostWates);
-        Console.WriteLine("ini kode post Cijaura: " + kodePostCijaura);
-        Console.WriteLine("ini kode post Margasari: " + kodePostMargasari);
+        String kodePosWates = DataKodePos.GetKodePos("Wates");
+        String kodePosCijaura = DataKodePos.GetKodePos("Cijaura");
+        String kodePosMargasari = DataKodePos.GetKodePos("Margasari");
+        Console.WriteLine("INI SOAL NOMOR 1");
+        Console.WriteLine("ini kode post Wates: " + kodePosWates);
+        Console.WriteLine("ini kode post Cijaura: " + kodePosCijaura);
+        Console.WriteLine("ini kode post Margasari: " + kodePosMargasari);
+        Console.WriteLine(" ");
+
+        Console.WriteLine("INI SOAL NOMOR 2");
+        DoorMachine doorMachine = new DoorMachine();
+        doorMachine.kunciPintu();
+        doorMachine.bukaPintu();
+        doorMachine.kunciPintu();
+        doorMachine.bukaPintu();
     }
 }
