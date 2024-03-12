@@ -1,0 +1,15 @@
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\bin\Debug\net8.0\TP_MOD4.exe
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\bin\Debug\net8.0\TP_MOD4.deps.json
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\bin\Debug\net8.0\TP_MOD4.runtimeconfig.json
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\bin\Debug\net8.0\TP_MOD4.dll
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\bin\Debug\net8.0\TP_MOD4.pdb
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.AssemblyInfoInputs.cache
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.AssemblyInfo.cs
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.sourcelink.json
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.dll
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\refint\TP_MOD4.dll
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.pdb
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\TP_MOD4.genruntimeconfig.cache
+C:\Users\Muhammad Rafif A.P\OneDrive - Telkom University\KUYLIAH\SEMESTER 4\Praktikum Konstruksi PL\tpmodul4_1302220003\TP_MOD4\TP_MOD4\obj\Debug\net8.0\ref\TP_MOD4.dll
